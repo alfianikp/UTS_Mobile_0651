@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Film</string>
+    <string name="comedy_action">Komedy, Aksi</string>
+    <string name="_8_7">8.7</string>
+    <string name="_2018">2018</string>
+    <string name="detail">Baca...</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="search">Pencarian</string>
+    <string name="settings">Pengaturan</string>
+</resources>
